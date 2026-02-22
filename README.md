@@ -45,9 +45,4 @@ A dynamic **Recipe Finder Website** with user authentication and role-based acce
 
 ---
 
-## **🚀 Run the website**
 
-1. **[GitHub Repository](https://github.com/GeorgeEzat/Wasfa-Website)** <img src="https://simpleicons.org/icons/github.svg" width="16">
-2. **[Wasfa.com](https://georgeezat.github.io/Wasfa-Website/HTML/HomePage.html)** (Click to open in browser)
-
----
